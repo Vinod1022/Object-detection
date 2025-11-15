@@ -1,0 +1,11 @@
+opencv-python==4.10.0.84
+numpy==1.26.4
+torch==2.2.2
+torchvision==0.17.2
+ultralytics==8.3.3
+supervision==0.21.0
+google-generativeai==0.7.2
+
+
+
+
